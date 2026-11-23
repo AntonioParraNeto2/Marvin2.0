@@ -173,6 +173,7 @@ const marcasDiversos = [
     "CORTAG",
     "DECA",
     "FIMAP",
+    "FORTHPLAS",
     "GALO",
     "GRIFT",
     "HYDRA",
