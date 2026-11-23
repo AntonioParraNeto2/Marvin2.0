@@ -489,6 +489,9 @@ function calcularFolha(marca, local, descricao) {
         if (localUpper.includes("MEZANINO")) {
             return "5"
         }
+        if (descricaoUpper.includes("PERFILADO")) {
+            return "4"
+        }
         return "5";
     }
 
